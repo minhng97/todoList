@@ -22,7 +22,7 @@
 }
 .TodoItem-complete {
   text-decoration: line-through;
-  opacity: 30%;
+  opacity: 70%;
 }
 .TodoItem img:hover {
   opacity: .5;
